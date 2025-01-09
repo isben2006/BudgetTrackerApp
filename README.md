@@ -23,8 +23,9 @@ This project started as a console-based budget tracker and has since evolved int
 4. Ensure Python 3.x is installed.
 5. Run the application:
    ```
-   python budget_tracker_gui.py
+   python3 budget_tracker_gui.py
    ```
+It's recommended to run the script through an **IDE** (such as **PyCharm**, **Spyder**, or **VS Code**) to avoid potential issues with the GUI that may occur when running from the terminal.
 ## Usage
 1. Launch the app by running `budget_tracker_gui.py`.
 2. Use the GUI to:
